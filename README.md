@@ -4,5 +4,8 @@ This portfolio is a simple, clean website built using HTML and CSS. It is design
 
 
 
-![image](https://user-images.githubusercontent.com/114772879/214920527-9d76d620-675b-4140-a1c3-3819ae699bdf.png)
+
+
+![image](https://user-images.githubusercontent.com/114772879/214920711-828b02e1-6c84-413c-a1e4-4a727c6d4e8f.png)
+
 
